@@ -1,0 +1,5 @@
+*.o
+main
+*.swp
+doc
+tags
