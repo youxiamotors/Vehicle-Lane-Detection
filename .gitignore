@@ -1,5 +1,4 @@
-*.o
-main
 *.swp
-doc
-tags
+*.o
+src/main
+src/*_test
