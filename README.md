@@ -19,7 +19,8 @@
 2. ./main ../sample/wandaor.mov  
 
 以上操作，你能看到一个初步的车道检测效果   
-![效果图](http://i.imgur.com/KF01ENH.png)
+![效果图](http://i.imgur.com/KF01ENH.png)  
+另，之前的检测[视频](https://www.youtube.com/watch?v=tSoJ5f0X7Y0)
 
 
 ###现状
