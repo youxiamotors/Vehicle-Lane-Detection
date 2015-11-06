@@ -26,7 +26,8 @@
 ###现状
 
 因为现在人手严重不足，所以作者需要把精力花在作者认为更重要的事情上。   
-作者在上海，如果有什么问题，你可以发email给我 amlhbmd4dW55YW5nQHlvdXhpYW1vdG9ycy5jb20= (base64)，或者加入我们的qq群302975729  
+作者在上海，如果有什么问题，你可以发email给我 amlhbmd4dW55YW5nQHlvdXhpYW1vdG9ycy5jb20= (base64)，或者加入我们的qq群302975729    
+另: h.youxiamotors.com   
 后面会慢慢公开更多的东西。  
 
 十分感谢
